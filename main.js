@@ -20,6 +20,6 @@ function new_image()
 }
 
 function playSound(){
-	x.play();
+	x.play(myAudio);
     console.log("play");
 }
